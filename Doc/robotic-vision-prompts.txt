@@ -1,0 +1,15 @@
+Merhaba arkadaşlar, sizden istenen final ödevi şu şekilde özetlenebilir:
+
+Derste sunumunu yaptığınız chapter’lardaki yöntemlerden en az birini kullanarak kendi seçtiğiniz bir problemi çözmeniz gerekiyor.
+Elde ettiğiniz sonuçları karşılaştırmalı şekilde analiz etmeniz bekleniyor.
+Çalışmayı 4–5 sayfalık akademik bildiri formatında hazırlamalısınız.
+Ödevi finallerin ikinci haftası 9 Haziran salı gününe kadar e-posta ile göndermeniz gerekiyor. adurdu@ktun.edu.tr
+Ayrıca hazırladığınız çalışmayı 10 Haziran Çarşamba günü yüz yüze sunmanız bekleniyor.
+
+Bildiride genelde şu bölümler olmalı: 
+
+Giriş
+Problem tanımı ve Kullanılan yöntem(ler)
+Deneyler ve sonuçlar
+Karşılaştırma ve yorum
+Sonuç
